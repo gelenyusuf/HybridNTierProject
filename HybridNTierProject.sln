@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34309.116
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37206.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.ENTITIES", "Project.ENTITIES\Project.ENTITIES.csproj", "{756EDF6C-A0D6-427C-9A2B-10FE78950D9B}"
 EndProject
@@ -15,10 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.COREMVC", "Project.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{60D54CE3-9E3D-499D-8016-50E5030D3DAD}"
 	ProjectSection(SolutionItems) = preProject
-		ChallengeOdevler.txt = ChallengeOdevler.txt
 		ProjeAdimlari.txt = ProjeAdimlari.txt
 		ProjeTeknikDokumantasyonu.txt = ProjeTeknikDokumantasyonu.txt
-		ReadMe.txt = ReadMe.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.COMMON", "Project.COMMON\Project.COMMON.csproj", "{DEABF61C-B2D8-415A-99F8-DA6C72E181E1}"
